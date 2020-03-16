@@ -2,7 +2,7 @@
 
 This application allows users to connect to a local server and test their luck by choosing Heads or Tails
 
-![coin flip game]("coin.png")
+![coin flip game](coin.png)
 
 ## Tech Used
 
